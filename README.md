@@ -1,0 +1,2 @@
+# ProyectoC
+Función en C++
